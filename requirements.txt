@@ -1,1 +1,20 @@
+#######################################################################
+# dnspython                                                           #
+#######################################################################
+Python library for working with DNS (Domain Name System) data. 
+It allows you to query DNS records, resolve domain names, perform zone 
+transfers, and handle all kinds of DNS record types programmatically. 
+It’s widely used in network tools, monitoring, and security scripts 
+where you need to look up or manipulate DNS information.
+
+
+#######################################################################
+# requests                                                            #
+#######################################################################
+Python library for making HTTP requests. It simplifies tasks like 
+sending GET, POST, PUT, or DELETE requests, handling headers, cookies, 
+query parameters, and working with JSON or other response content. 
+It’s commonly used for web scraping, interacting with APIs, or any 
+situation where your Python program needs to communicate with web 
+services.
 
